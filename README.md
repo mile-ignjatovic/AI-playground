@@ -1,0 +1,1 @@
+Area for AI tools and projects.
